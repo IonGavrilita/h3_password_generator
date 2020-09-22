@@ -45,5 +45,5 @@ The following image demonstrates the application functionality:
 * Github profile:  https://github.com/IonGavrilita
 
 ### Directory:
-* Website:
-* Source:
+* Website: https://iongavrilita.github.io/h3_password_generator/.
+* Source: https://github.com/IonGavrilita/h3_password_generator
